@@ -2,6 +2,8 @@
 
 You can easily create your own unique color palette for Component Libraries like **Tailwind CSS**, **Chakra UI** and **Mantine Dev**.
 
+Demo: [https://heycolor.vercel.app](https://heycolor.vercel.app)
+
 ## How to use it
 
 Color tones between 50 and 900 or between 25 and 1000 are created for your color selection, you can copy these color tones and use them in CSS by adding them to the library you use.
